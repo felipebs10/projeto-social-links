@@ -44,7 +44,8 @@ body * {
 
 /*Identificar para id é #*/
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*height: 712px; */
   /* border: 1px solid red; */ /*Se tiver usando uma caixa usar a bordar de ínicio para não se perder.*/
   margin: auto;
